@@ -109,7 +109,7 @@ By the end of this course, students will be able to:
 ## 📌 How to Use This Repo  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Goodbye.git
+   git clone  https://github.com/msobanShaukat/NUST_MSAI_CS_878_Deep_learning
    ```  
 2. Navigate to relevant folders for assignments, code, or notes.  
 3. Refer to `resources/` for papers and tutorials.  
