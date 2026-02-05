@@ -1,4 +1,4 @@
-## 🏅 Badges  
+ ## 🏅 Badges  
 ![Deep Learning](https://img.shields.io/badge/CS--878-Deep%20Learning-blue)  ![Spring 2026](https://img.shields.io/badge/Spring-2026-brightgreen)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![License](https://img.shields.io/badge/License-MIT-yellow)  
 
 # Deep Learning (CS-878) – Spring 2026  
