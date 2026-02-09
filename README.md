@@ -14,7 +14,7 @@ This graduate-level course offers a comprehensive exploration of **deep neural n
 
 ---
 
-## 📂 Repository Structure  
+## 📂📂 Repository Structure  
 ```
 msobanShaukat/NUST_MSAI_CS_878_Deep_learning/
 ├── 📁 assignments/          # Graded assignments (3 total)
